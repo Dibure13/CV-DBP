@@ -2,12 +2,12 @@
     "name": "Curriculum Vitae - Diego Bucio Pérez",
     "short_name": "CV-DBP",
     "description": "Curriculum Vitae de Diego Bucio Pérez, estudainte en IEVyN",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#1e3a5f",
     "theme_color": "#f4f7f6",
     "orientation": "portrait",
-    "scope": "/",
+    "scope": "./",
     "icons": [
         {
             "src": "/icons/logo-cv-1024.jpg",
