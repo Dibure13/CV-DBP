@@ -1,10 +1,10 @@
 const CACHE_NAME = 'cv-pwa-cache-v1';
 const urlsToCache = [
   './',
-  './index.html',
-  'css/styles.css',
-  'js/app.js',
-  './manifest.json'
+  '/CV-DBP/index.html',
+  '/CV-DBP/css/styles.css',
+  '/CV-DBP/js/app.js',
+  '/CV-DBP/manifest.json'
 ];
 
 self.addEventListener('install', event => {
